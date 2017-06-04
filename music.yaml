@@ -1,0 +1,12 @@
+musicData: [
+{name: "黑之歌",url: "http://5sing.kugou.com/m/Song/Detail/yc/3211693"},
+{name: "黑之歌2",url: "http://5sing.kugou.com/m/Song/Detail/yc/3211693"},
+{name: "黑之歌3",url: "http://5sing.kugou.com/m/Song/Detail/yc/3211693"}
+]
+
+
+jeffData: [
+{name: "jeff1",url: "http://5sing.kugou.com/m/Song/Detail/yc/3211693"},
+{name: "jeff2",url: "http://5sing.kugou.com/m/Song/Detail/yc/3211693"},
+{name: "jeff3",url: "http://5sing.kugou.com/m/Song/Detail/yc/3211693"}
+]
